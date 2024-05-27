@@ -50,7 +50,7 @@ function showPerson() {
 
 showPerson(currentItem);
 
-/* prevBtn.addEventListener("click", () => {
+prevBtn.addEventListener("click", () => {
   currentItem--;
   if (currentItem < 0) {
     currentItem = reviews.length - 1;
@@ -71,4 +71,3 @@ randomBtn.addEventListener("click", () => {
   currentItem = randomRev;
   showPerson(currentItem);
 });
- */
